@@ -59,7 +59,3 @@ Faculdade: Estácio de Sá
 
 ```bash
 gcc -Wall -Wextra -std=c99 DetectiveQuest.c -o detective
-
-
-```bash
-gcc -Wall -Wextra -std=c99 DetectiveQuest.c -o detective
