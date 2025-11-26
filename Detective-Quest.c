@@ -163,10 +163,10 @@ int main() {
     /* HASH */
     HashNode *tabela[10] = {NULL};
 
-    inserirHash(tabela, "Pegadas perto da janela", "Sr. Preto");
-    inserirHash(tabela, "Faca suja encontrada", "Sra. Vermelha");
-    inserirHash(tabela, "Luvas abandonadas", "Sr. Azul");
-    inserirHash(tabela, "Bilhete rasgado", "Sra. Verde");
+    inserirHash(tabela, "Pegadas perto da janela", "Sr. Wilson");
+    inserirHash(tabela, "Faca suja encontrada", "Mordomo");
+    inserirHash(tabela, "Luvas abandonadas", "Mordomo");
+    inserirHash(tabela, "Bilhete rasgado", "Inquilino");
 
     PistaNode *pistas = NULL;
 
@@ -199,4 +199,5 @@ int main() {
 
     printf(AZUL "\nObrigado por jogar Detective Quest!\n" RESET);
     return 0;
+
 }
