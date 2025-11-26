@@ -47,12 +47,11 @@ O jogo usa cores no terminal:
 
 ---
 👨‍💻 Autor: Rodrigo Gomes
-
-
 ---
 Disciplina: Algoritmos Avançados
 ---
 Professor: Fábio Henrique Silva
+---
 Faculdade: Estácio de Sá
 
 ---
