@@ -48,7 +48,7 @@ O jogo usa cores no terminal:
 ---
 👨‍💻 Autor: Rodrigo Gomes
 ---
-Disciplina: Algoritmos Avançados
+Disciplina: Estruturas de Dados - Algoritmos Avançados
 ---
 Professor: Fábio Henrique Silva
 ---
